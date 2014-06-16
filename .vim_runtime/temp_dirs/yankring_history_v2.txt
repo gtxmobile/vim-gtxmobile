@@ -1,0 +1,100 @@
+ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQDVR+n0pJA13I7ebte52FYK63FjohV2f9vB68zAJ9rWOihv6Nck2HEHyg3b6wo4a3Nk2odoJj9H/Pyc9Uqp3ADDP8DOTQxVlHsii7P9JEzYgzZUmGxsLnyOEF874sux74yHyANP6h8FXMNaq5MWTgZ6ENI73EJYsKjYTYYkDv4nz9J0ERUMiyms5qoweMD7SpHUfO0a7NAacTdjuvNwxwWEmcKPLGYnlx6uLVSZTlhZzHLMMC4diJ2CRk6duBwfVnz2/BnX+uvUZTzEUfml8g3fHEe28e1Tnufvbl2vUr7oY9okzIBUHxIcqZbtXRNlRfIruil2o7cnO5QyFHlrGqD1 cydwillis@gmail.com,v
+# Create your views here.,V
+    print 'fae',V
+def hello():,V
+mysql_user { 'root@127.0.0.1':  ensure                   => 'present',  max_connections_per_hour => '0',  max_queries_per_hour     => '0',  max_updates_per_hour     => '0',  max_user_connections     => '0',},v
+Could not retrieve fact fqdn,V
+,V
+[(local-load,all,5,1),(local-cpu,all,5,1),v
+            for mi in env[m]:,V
+        env[srv].ip=uuid,V
+Delete vm10;,v
+        #eval(ENGINGE+"_create_host")(srvobj),V
+                #native_assoc_serv({"name":env[s].name,"ip":env[s].ip},m.ele),V
+vm4,vm5,vm6,vm8,vm7],v
+enginge nagiosql;Register VirtualMachine [vm1,vm2] 5 1;Bind vm1 10.214.25.185;#Delete vm2;Metrics mVM [(local-load,all,5,1),(local-cpu,all,5,1),(local-iostat,all,5,1),(local-mem,all,5,1),(local-sda1,all,5,1),(local-swap,all,5,1),(local-total-procs,all,5,1)];Add vm2 mVM;,v
+Metrics mVM (local-load,all,5,1);Add vm2 mVM;,v
+reset_host,v
+        print msg,V
+        code=status.HTTP_200_OK,V
+        code=status.HTTP_400_BAD_REQUEST,V
+K,v
+',v
+        print 'faew',V
+enginge nagiosql;Register VirtualMachine [vm1,vm2] 5 1;Bind vm3 10.214.215.12;,v
+Ext.example.msg('Failure','disassoc host failed! with status code'											+ response.msg);,v
+enginge nagiosql;,v
+    except Exception,e:,V
+    try:,V
+print 'reql erro',v
+status.HTTP_200_OK),v
+ENGINGE,v
+/home/clisp/nagiosql,v
+        ENGINGE=x[1],V
+    enginge=importlib.import_module(ENGINGE+'.views'),V
+Register VirtualMachine [vm1,vm2] 5 1;,v
+s,v
+nagios_create_host,v
+    eval("from "+ENGINGE+".views import HostDetail"),V
+    modules.append(sys.modules[__name__]),V
+    modules=map(__import__,s),V
+    global modules,V
+    print ss,V
+    ss="from "+ENGINGE+".views import HostDetail",V
+modules=map(__import__,s)    modules.append(sys.modules[__name__]),v
+"from "+ENGINGE+".views import HostDetail",v
+/home/clisp/workspace/JTangCMS-3.0/WebContent/extjs-ux/ux/aceeditor/ace-0.2.0/src/mode-javascript.js,v
+,username="admin",password="123"):,v
+/home/clisp/workspace/JTangCMS-3.0/WebContent/extjs-ux/ux/aceeditor/ace-0.2.0/src/mode-sql.js,v
+listeners: {			            'change': function(fb, v){			            	var file=Ext.getCmp('fi-upload').getEl().down('input[type=file]').dom.files[0]; // fibasic is fileuploadfield			            	var reader = new FileReader();			                reader.onload = (function(obj) {			                    return function(e) {//			                    	console.log(e.target.result);			                    	me.editor.getSession().setValue(e.target.result);			                    };			                })(file);			                reader.readAsBinaryString(file);			            	var newValue = v.replace(/C:\\fakepath\\/g, '');                            fb.setRawValue(newValue);                           			            }			        },v
+listeners: {            'change': function(fb, v){                var el = Ext.get('fi-button-msg');                el.update('<b>Selected:</b> '+v);,v
+listeners: {            'change': function(fb, v){                var el = Ext.get('fi-button-msg');                el.update('<b>Selected:</b> '+v);                if(!el.isVisible()){                    el.slideIn('t', {                        duration: 200,                        easing: 'easeIn',                        listeners: {                            afteranimate: function() {                                el.highlight();                                el.setWidth(null);                            }                        }                    });                }else{                    el.highlight();                }            }        },v
+Delete vmmmm1;,v
+delete_host(cls,hostname,ip,username="admin",password="123"):,v
+            native_assoc_serv(hostlist,m.ele),V
+http check port 8080,v
+Add [vm1,vm2] mVM,v
+            for m in met:,V
+    print x[0],V
+Metrics mVM [(CPU,all,5,1),,v
+Register VirtualMachine vmmmm1 5 1;#Bind vmmmm1 10.213.2.51;,v
+username="admin",password="123"):,v
+def,v
+    def disassoc_service(cls,service,hostname,ip,username="admin",password="123"):,V
+    def disassoc_service(self,service,hostname,ip,username="admin",password="123"):,V
+assoc_service(self,json_data,username="admin",password="123"):,v
+    jdata={"hostname":hostlist,"service":{"name":srv}},V
+                ,V
+    native_disassoc_serv(env[srv].name,env[srv].ip,),V
+    native_assoc_serv(env[srv].name,env[srv].ip,[m.ele for m in met]),V
+                native_disassoc_serv(env[srv].name,env[srv].ip,),V
+            native_assoc_serv(env[srv].name,env[srv].ip,[m.ele for m in met]),V
+        pass,V
+    else:,V
+    elif cop=='Add':,V
+        native_assoc_serv(env[srv].name,env[srv].ip,env[dst].ele),V
+def load(fn):    repl(None,InPort(open(fn)),None),V
+{"hostname": [{"ip": "10.213.2.51", "name": "vmmmm1", "template": "linux-server"}]},V
+"{\"hostname\":[{\"name\":\"vmmmm1\", \"ip\": \"10.213.2.51\", \"template\": \"linux-server\"}]}",V
+StringIO(inport),v
+    repl(None,InPort(open(fn)),None),V
+jk.applyeval(jk.parseport(exp)),v
+[{"name":"teste", "ip": "110.120.10.10", "template": "linux-server"}],v
+    hd=HostDetail(),V
+JTangCMS-3.0/,v
+def cal_native(obj):    jdata=json.dumps(obj,default=convert_to_builtin_type)    hd=HostDetail()    hd.create_host(jdata),V
+headers={"Access-Control-Allow-Origin":data['domain']},v
+        resp.write('document.domain = "' + data['domain'] + '";'),V
+(“Access-Control-Allow-Origin: ,v
+“Access-Control-Allow-Origin: http://www.a.com”);,v
+</body></html>,v
+</script></head><body>,v
+<html><head><script type="text/javascript">,v
+http://127.0.0.1:8000/lenginge/filecnat/,v
+params,v
+json.dumps({"success":False}),v
+http://127.0.0.1:8000,v
+document.domain = "' + params.__domain + '";',v
+        joi,V
+cross-origin,v
+||doc.body.innerText;,v
