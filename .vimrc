@@ -35,7 +35,7 @@ Plug 'rdnetto/YCM-Generator', { 'branch': 'stable' }
 " vim-scripts repos
 "Plug 'YankRing.vim'
 Plug 'vim-scripts/vcscommand.vim'
-Plug 'vim-scripts/ShowPairs'
+"Plug 'vim-scripts/ShowPairs'
 Plug 'vim-scripts/SudoEdit.vim'
 Plug 'vim-scripts/EasyGrep'
 Plug 'vim-scripts/VOoM'
