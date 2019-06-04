@@ -148,9 +148,14 @@ if has("gui_running")
 endif
 
 " Set utf8 as standard encoding and en_US as the standard language
- set encoding=utf-8
+set encoding=utf-8
+"解决菜单乱码
+source $VIMRUNTIME/delmenu.vim
+source $VIMRUNTIME/menu.vim
 "set langmenu=zh_CN.UTF-8
-"language message zh_CN.UTF-8
+"解决consle提示信息输出乱码
+language message zh_CN.UTF-8
+
 set fileencodings=ucs-bom,utf-8,cp936,gb18030,big5,euc-jp,euc-kr,latin1
 
 "set ambiwidth=double
