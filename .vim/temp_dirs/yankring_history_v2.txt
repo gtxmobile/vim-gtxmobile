@@ -1,3 +1,6 @@
+DOCKER_OPTS="--registry-mirror=https://registry.docker-cn.com",V
+ ,v
+e,v
 ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQDVR+n0pJA13I7ebte52FYK63FjohV2f9vB68zAJ9rWOihv6Nck2HEHyg3b6wo4a3Nk2odoJj9H/Pyc9Uqp3ADDP8DOTQxVlHsii7P9JEzYgzZUmGxsLnyOEF874sux74yHyANP6h8FXMNaq5MWTgZ6ENI73EJYsKjYTYYkDv4nz9J0ERUMiyms5qoweMD7SpHUfO0a7NAacTdjuvNwxwWEmcKPLGYnlx6uLVSZTlhZzHLMMC4diJ2CRk6duBwfVnz2/BnX+uvUZTzEUfml8g3fHEe28e1Tnufvbl2vUr7oY9okzIBUHxIcqZbtXRNlRfIruil2o7cnO5QyFHlrGqD1 cydwillis@gmail.com,v
 # Create your views here.,V
     print 'fae',V
@@ -95,6 +98,3 @@ params,v
 json.dumps({"success":False}),v
 http://127.0.0.1:8000,v
 document.domain = "' + params.__domain + '";',v
-        joi,V
-cross-origin,v
-||doc.body.innerText;,v
